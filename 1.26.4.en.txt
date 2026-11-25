@@ -6,3 +6,6 @@ What's new:
 - New transparent Ice block
 - The old ice block is now called Packed Ice
 - New Ice Bricks plus Ice Brick slabs and stairs – crafted from Packed Ice
+
+What's fixed:
+- Wooden and Stone buttons
