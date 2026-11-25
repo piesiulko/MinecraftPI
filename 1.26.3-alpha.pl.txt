@@ -1,0 +1,8 @@
+Minecraft Pi Edition v0.1.26.3 alpha
+
+Nowości:
+- Nowy biom jesienny
+- Nowe jesienne drzewa
+- Nowe jesienne sadzonki
+- Półbloki i schodki z wełny
+- Jesienne i zwykłe liany

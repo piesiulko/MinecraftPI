@@ -1,0 +1,8 @@
+Minecraft Pi Edition v0.1.26.3 alpha
+
+What's new:
+- New autumn biome
+- New autumn trees
+- New autumn saplings
+- Wool slabs and stairs
+- Autumn and regular vines

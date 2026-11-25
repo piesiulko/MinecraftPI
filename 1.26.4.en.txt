@@ -1,0 +1,8 @@
+Minecraft Pi Edition v0.1.26.4 alpha
+
+What's new:
+- New ice caves in the snowy biome
+- 2 new mobs: snow golem and frozen zombie
+- New transparent Ice block
+- The old ice block is now called Packed Ice
+- New Ice Bricks plus Ice Brick slabs and stairs – crafted from Packed Ice

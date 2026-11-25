@@ -1,0 +1,8 @@
+Minecraft Pi Edition v0.1.26.4 alpha
+
+Nowości:
+- Nowe lodowe jaskinie w zimowym biomie
+- 2 nowe moby: bałwan (snow golem) i zamrożony zombie (frozen zombie)
+- Nowy przezroczysty blok lodu (Ice)
+- Dotychczasowy lód nazywa się teraz zbity lód (Packed Ice)
+- Nowe lodowe cegły oraz półbloki i schodki z lodowych cegieł – tworzy się je ze zbitego lodu
