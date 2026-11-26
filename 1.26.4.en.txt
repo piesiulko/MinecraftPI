@@ -9,3 +9,4 @@ What's new:
 
 What's fixed:
 - Wooden and Stone buttons
+- Music Discs
