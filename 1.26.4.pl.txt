@@ -9,3 +9,4 @@ Nowości:
 
 Co naprawiono:
 - Drewniane i kamienne przyciski
+- Płyty muzyczne
