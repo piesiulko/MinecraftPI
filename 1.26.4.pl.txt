@@ -6,7 +6,9 @@ Nowości:
 - Nowy przezroczysty blok lodu (Ice)
 - Dotychczasowy lód nazywa się teraz zbity lód (Packed Ice)
 - Nowe lodowe cegły oraz półbloki i schodki z lodowych cegieł – tworzy się je ze zbitego lodu
+- Jeżdżenie na świni
 
 Co naprawiono:
 - Drewniane i kamienne przyciski
 - Płyty muzyczne
+- Skrzynie
